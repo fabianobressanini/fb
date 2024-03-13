@@ -1,4 +1,4 @@
-# 📓 Repositório 'main' do usuário 'fabianobressanini'
+# 📓 Repositório 'fb' do usuário 'fabianobressanini'
 
 O objetivo deste repositório é armazenar ideias, códigos, aprendizados, entre outros.
 
